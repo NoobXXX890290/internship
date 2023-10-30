@@ -1,3 +1,2 @@
 to jest main
-
- znowu glowny (main)
+teraz z developmentu
